@@ -1,0 +1,15 @@
+{
+  "knowledge_base_docs": 11,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "vector_store": "FAISS",
+  "ml_model": "Logistic Regression (recall-optimised)",
+  "top_risk_factors": [
+    "test_preparation_course",
+    "lunch",
+    "parental_level_of_education"
+  ],
+  "agents": [
+    "Analyst Agent",
+    "Intervention Agent"
+  ]
+}
